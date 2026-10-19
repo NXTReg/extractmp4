@@ -27,19 +27,8 @@
 | 运行时 | .NET Framework 4.7.2+ |
 | 其他 | 已安装 DMM VR Player，且目标文件拥有有效许可证（能在播放器中正常播放） |
 
-## 安装
-
-```powershell
-git clone https://github.com/<your-name>/<your-repo>.git
-cd <your-repo>
-
-pip install pythonnet
-```
-
-> **首次使用前**：请先在 DMM VR Player 中把目标文件正常播放一次，让播放器缓存许可证。否则解密会返回空数据。
-
 ## 使用
-
+> **首次使用前**：请先在 DMM VR Player 中把目标文件正常播放一次，让播放器缓存许可证。否则解密会返回空数据。
 ```powershell
 # 单个文件，指定输出名
 python wsdcf_extract.py video.wsdcf -o video.mp4
