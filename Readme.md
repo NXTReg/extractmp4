@@ -7,7 +7,9 @@
 > ⚠️ **仅供个人备份使用**：请仅对你本人已合法购买 / 已获得授权的内容使用本工具；请勿分发、传播、转售导出结果，并遵守当地版权法规与 DMM 服务条款。
 
 ---
+## 演示
 
+<video src="[movie.mp4.mp4](https://github.com/user-attachments/assets/9399fb51-4adb-4f18-acd9-a5e291bc9b7b)" controls="controls" width="500" height="300"></video>
 ## 特性
 
 - **单文件脚本**，无需安装额外组件，无需修改播放器
