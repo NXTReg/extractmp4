@@ -9,7 +9,7 @@
 ---
 ## 演示
 
-<video src="[movie.mp4.mp4](https://github.com/user-attachments/assets/9399fb51-4adb-4f18-acd9-a5e291bc9b7b)" controls="controls" width="500" height="300"></video>
+<video src="https://github.com/user-attachments/assets/9399fb51-4adb-4f18-acd9-a5e291bc9b7b" controls="controls" width="500" height="300"></video>
 ## 特性
 
 - **单文件脚本**，无需安装额外组件，无需修改播放器
